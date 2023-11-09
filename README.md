@@ -21,7 +21,7 @@ Använd dig av [Vue Mastery Cheat Sheet for Basic Routing](https://storage.googl
 
 Appen ska kunna navigera mellan en HomeView (/), en AboutView (/about) samt något annat valbart (Movies/Users/Products). 
 
-Bassidan ska vara i App.vue med en Header där man kan navigera mellan dessa views samt en Main där <router-view/> visar aktuell view/component.
+Bassidan ska vara i App.vue med en Header där man kan navigera mellan dessa views samt en Main där <router-view/> visar aktuell view/component (d.v.s <router-view/>).
 
 # 👩🏽‍💻 Övning 2: Fetcha data + dynamisk routing
 
@@ -29,9 +29,7 @@ Använd dig av [JSON Server](https://github.com/typicode/json-server) för att a
 
 Fetcha en lista av data i en komponent (SomeList.vue) och rendera listan. En användare ska kunna klicka på ett listobjekt och då komma till SomeDetails.vue som visar detailjer om listobjektet. Här använder du dig av dynamisk routing 'some-resource/:id'. SomeDetails.vue ska alltså fetcha enbart baserat på id:t.
 
-Hur fetchar man i Vue? Läs på om Lifecycle Hooks! En del fetchar datat i mounted() och en del i createt(). Läs på om skillnaderna.
-
-Här kan du läsa om [Lifecycle Hooke i Vue.](https://vuejs.org/guide/essentials/lifecycle.html)
+Hur fetchar man i Vue? Läs på om Lifecycle Hooks! En del fetchar datat i mounted() och en del i created(). Läs på om skillnadern => [Lifecycle Hooke i Vue.](https://vuejs.org/guide/essentials/lifecycle.html)
 
 
 

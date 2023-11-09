@@ -1,5 +1,5 @@
 
-# Vue #3: Vue Router + Fetcha data i lifecycle hook
+# Vue #3: Vue Router + Fetcha data i Lifecycle hook
 
 👋 Se föreläsningen från i onsdags denna vecka  ✅ 
 

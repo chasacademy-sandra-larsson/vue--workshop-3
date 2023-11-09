@@ -6,7 +6,7 @@
 **Syftet med denna workshop:** 
 
 * Använda grunderna i Vue router 
-* Fetcha data i lifecycle Hook
+* Fetcha data i Lifecycle Hook
 
 Dokumentation för Vue Router: [https://router.vuejs.org/](https://router.vuejs.org/)
 
